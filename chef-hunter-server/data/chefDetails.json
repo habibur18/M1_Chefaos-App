@@ -1,0 +1,775 @@
+[
+    {
+      "id": "P9Q8R7S6T5U4V3W2",
+      "chef_id": "1",
+      "chefName": "Alice Johnson",
+      "chefPhotoUrl": "https://i.ibb.co/J2d13MW/1-chef.png",
+      "likes": 1200,
+      "numRecipes": 20,
+      "yearsExperience": 10,
+      "chefDescription": "Alice Johnson is a passionate chef with a flair for creating delicious and innovative dishes. She has spent a decade honing her culinary skills and loves to experiment with global flavors. Alice is known for her dedication to using fresh, locally-sourced ingredients.",
+      "recipes": [
+        {
+          "recipes_id": 1,
+          "name": "Spicy Thai Noodles",
+          "ingredients": ["rice noodles", "chicken", "bell peppers", "soy sauce", "Thai chili paste"],
+          "cooking_method": [
+            "Cook noodles according to package instructions.",
+            "Stir-fry chicken and bell peppers in a hot pan.",
+            "Add soy sauce and Thai chili paste.",
+            "Toss with cooked noodles.",
+            "Serve hot."
+          ],
+          "rating": 4.8,
+          "recipeImages": "https://i.ibb.co/098MZbp/noodle-soup.png"
+        },
+        {
+          "recipes_id": 2,
+          "name": "Mango Salsa",
+          "ingredients": ["mango", "red onion", "cilantro", "lime juice", "salt"],
+          "cooking_method": [
+            "Dice mango, red onion, and cilantro.",
+            "Mix with lime juice and salt.",
+            "Chill before serving."
+          ],
+          "rating": 4.5,
+          "recipeImages": "https://i.ibb.co/1dM6745/mango-salsa.jpg"
+        }
+      ]
+    },
+    {
+      "id": "A2B3C4D5E6F7G8H9",
+      "chef_id": "2",
+      "chefName": "David Smith",
+      "chefPhotoUrl": "https://pngimg.com/uploads/chef/chef_PNG115.png",
+      "likes": 800,
+      "numRecipes": 15,
+      "yearsExperience": 8,
+      "chefDescription": "David Smith is a chef and culinary educator. He enjoys sharing his knowledge and love for cooking with others. David specializes in Italian cuisine and has a deep appreciation for the simplicity and quality of ingredients used in traditional Italian recipes.",
+      "recipes": [
+        {
+          "recipes_id": 3,
+          "name": "Margherita Pizza",
+          "ingredients": [
+            "pizza dough",
+            "tomatoes",
+            "fresh mozzarella",
+            "basil",
+            "olive oil"
+          ],
+          "cookingMethod": [
+            "Roll out pizza dough.",
+            "Top with sliced tomatoes, fresh mozzarella, and basil.",
+            "Drizzle with olive oil.",
+            "Bake until crust is golden.",
+            "Garnish with more fresh basil."
+          ],
+          "rating": 4.9,
+          "recipeImages": "https://i.ibb.co/gzD9S8H/margherita-pizza.png"
+        },
+        {
+          "recipes_id": 4,
+          "name": "Tiramisu",
+          "ingredients": [
+            "ladyfingers",
+            "mascarpone cheese",
+            "espresso",
+            "cocoa powder",
+            "sugar"
+          ],
+          "cookingMethod": [
+            "Dip ladyfingers in espresso.",
+            "Layer with mascarpone mixture and cocoa.",
+            "Repeat layers.",
+            "Chill before serving."
+          ],
+          "rating": 4.7,
+          "recipeImages": "https://i.ibb.co/sQVZNNm/tiramisu.png"
+        }
+      ]
+    },
+    {
+      "id": "C3H2E1F4_9J8K7L6",
+      "chef_id": "3",
+      "chefName": "Sophia Rodriguez",
+      "chefPhotoUrl": "https://i.ibb.co/SPf3239/2-chef.png",
+      "likes": 1500,
+      "numRecipes": 25,
+      "yearsExperience": 14,
+      "chefDescription": "Sophia Rodriguez is a renowned chef with a passion for creating dishes that celebrate local ingredients. She has over a decade of experience in the culinary world and is known for her commitment to sustainable and farm-to-table cooking.",
+      "recipes": [
+        {
+          "recipes_id": 5,
+          "name": "Farmers Market Salad",
+          "ingredients": [
+            "mixed greens",
+            "heirloom tomatoes",
+            "goat cheese",
+            "balsamic vinaigrette"
+          ],
+          "cookingMethod": [
+            "Toss mixed greens with sliced heirloom tomatoes.",
+            "Top with crumbled goat cheese.",
+            "Drizzle with balsamic vinaigrette.",
+            "Serve chilled."
+          ],
+          "rating": 4.6,
+          "recipeImages": "https://i.ibb.co/3TyQxyx/farmer-market-salad.png"
+        },
+        {
+          "recipes_id": 6,
+          "name": "Lemon Herb Roasted Chicken",
+          "ingredients": [
+            "whole chicken",
+            "lemon",
+            "rosemary",
+            "garlic",
+            "olive oil"
+          ],
+          "cookingMethod": [
+            "Rub chicken with olive oil, lemon juice, and minced garlic.",
+            "Season with fresh rosemary.",
+            "Roast in the oven until golden and cooked through.",
+            "Slice and serve."
+          ],
+          "rating": 4.8,
+          "recipeImages": "https://i.ibb.co/CWsR9pM/chicken-roasted.png"
+        }
+      ]
+    },
+    {
+      "id": "X4Y3Z2A1B9C8D7",
+      "chef_id": "4",
+      "chefName": "Michael Chang",
+      "chefPhotoUrl": "https://i.ibb.co/cC3drKM/5-successful-happy-eldery-chef-crossed-arms-portrait-white-wall-isolated.png",
+      "likes": 1800,
+      "numRecipes": 30,
+      "yearsExperience": 20,
+      "chefDescription": "Michael Chang is a world-class chef known for his expertise in fusion cuisine. With two decades of experience, he combines flavors from around the globe to create unique and unforgettable dishes.",
+      "recipes": [
+        {
+          "recipes_id": 7,
+          "name": "Sushi Burrito",
+          "ingredients": [
+            "sushi rice",
+            "nori seaweed",
+            "sashimi-grade fish",
+            "avocado",
+            "cucumber"
+          ],
+          "cookingMethod": [
+            "Lay out a sheet of nori on a bamboo sushi mat.",
+            "Spread sushi rice evenly on the nori.",
+            "Add slices of sashimi-grade fish, avocado, and cucumber.",
+            "Roll tightly into a burrito shape.",
+            "Slice and serve with soy sauce and wasabi."
+          ],
+          "rating": 4.9,
+          "recipeImages": "https://i.ibb.co/sw2sbFZ/sushi-burrito.png"
+        },
+        {
+          "recipes_id": 8,
+          "name": "Mango Tango Smoothie",
+          "ingredients": [
+            "mango",
+            "yogurt",
+            "honey",
+            "ice cubes"
+          ],
+          "cookingMethod": [
+            "Blend mango, yogurt, honey, and ice cubes until smooth.",
+            "Pour into a glass and enjoy."
+          ],
+          "rating": 4.7,
+          "recipeImages": "https://i.ibb.co/Y7kdJpP/mango-tango-smoothie.png"
+        }
+      ]
+    },
+    {
+      "id": "M5N4O3P2Q1R0S9",
+      "chef_id": "5",
+      "chefName": "Isabella Martinez",
+      "chefPhotoUrl": "https://i.ibb.co/k6wqNFR/12-hand-tomato-chef-women.png",
+      "likes": 2000,
+      "numRecipes": 35,
+      "yearsExperience": 18,
+      "chefDescription": "Isabella Martinez is a highly accomplished chef with nearly two decades of culinary experience. She has a deep appreciation for traditional recipes passed down through generations, which she combines with her innovative approach to create dishes that are both nostalgic and exciting. Isabella's dedication to preserving cultural culinary traditions has earned her recognition in the industry.",
+      "recipes": [
+        {
+          "recipes_id": 9,
+          "name": "Empanadas",
+          "ingredients": [
+            "ground beef",
+            "onions",
+            "bell peppers",
+            "pastry dough",
+            "cumin",
+            "paprika"
+          ],
+          "cookingMethod": [
+            "Sauté ground beef, onions, and bell peppers with cumin and paprika.",
+            "Fill pastry dough with the mixture.",
+            "Fold and seal the empanadas.",
+            "Bake until golden brown.",
+            "Serve hot."
+          ],
+          "rating": 4.8,
+          "recipeImages": "https://i.ibb.co/G5ySRbf/empanadas.png"
+        },
+        {
+          "recipes_id": 10,
+          "name": "Tres Leches Cake",
+          "ingredients": [
+            "cake flour",
+            "eggs",
+            "milk",
+            "condensed milk",
+            "evaporated milk",
+            "vanilla"
+          ],
+          "cookingMethod": [
+            "Prepare a sponge cake.",
+            "Mix condensed milk, evaporated milk, and regular milk.",
+            "Pour the milk mixture over the cake.",
+            "Let it soak.",
+            "Serve chilled with a drizzle of vanilla."
+          ],
+          "rating": 4.7,
+          "recipeImages": "https://i.ibb.co/g6cWC33/leches-cake.png"
+        }
+      ]
+    },
+    {
+      "id": "F6G5H4I3J2K1L0",
+      "chef_id": "6",
+      "chefName": "William Anderson",
+      "chefPhotoUrl": "https://i.ibb.co/1nQxy9W/6-serious-chef-with-his-arms-crossed.png",
+      "likes": 2500,
+      "numRecipes": 40,
+      "yearsExperience": 22,
+      "chefDescription": "William Anderson is a culinary virtuoso with over two decades of experience. He has traveled the world to learn and master diverse cuisines, combining his expertise to craft exceptional dishes. William's passion for culinary arts is matched only by his dedication to mentoring the next generation of chefs, sharing his knowledge and love for cooking.",
+      "recipes": [
+        {
+          "recipes_id": 11,
+          "name": "Beef Wellington",
+          "ingredients": [
+            "beef tenderloin",
+            "puff pastry",
+            "mushrooms",
+            "foie gras",
+            "Dijon mustard"
+          ],
+          "cookingMethod": [
+            "Sear beef tenderloin.",
+            "Spread Dijon mustard.",
+            "Top with sautéed mushrooms and foie gras.",
+            "Wrap in puff pastry.",
+            "Bake until golden.",
+            "Slice and serve."
+          ],
+          "rating": 4.9,
+          "recipeImages": "https://i.ibb.co/d0hTn5v/beef-wellington.png"
+        },
+        {
+          "recipes_id": 12,
+          "name": "Lobster Bisque",
+          "ingredients": [
+            "lobster meat",
+            "onions",
+            "carrots",
+            "celery",
+            "heavy cream",
+            "brandy"
+          ],
+          "cookingMethod": [
+            "Sauté onions, carrots, and celery.",
+            "Add lobster meat.",
+            "Blend with heavy cream.",
+            "Simmer, adding brandy.",
+            "Serve hot with a drizzle of cream."
+          ],
+          "rating": 4.8,
+          "recipeImages": "https://i.ibb.co/zXCxRQk/lobster-bisque.png"
+        },
+        {
+          "recipes_id": 13,
+          "name": "Ratatouille",
+          "ingredients": [
+            "eggplant",
+            "zucchini",
+            "bell peppers",
+            "tomatoes",
+            "garlic",
+            "thyme"
+          ],
+          "cookingMethod": [
+            "Sauté garlic and thyme.",
+            "Layer sliced vegetables.",
+            "Bake until tender.",
+            "Serve as a side or main dish."
+          ],
+          "rating": 4.7,
+          "recipeImages": "https://i.ibb.co/721qydN/ratatouille.png"
+        },
+        {
+          "recipes_id": 14,
+          "name": "Mango Lassi",
+          "ingredients": [
+            "mango",
+            "yogurt",
+            "milk",
+            "sugar",
+            "cardamom"
+          ],
+          "cookingMethod": [
+            "Blend mango, yogurt, milk, sugar, and cardamom.",
+            "Serve chilled in glasses."
+          ],
+          "rating": 4.6,
+          "recipeImages": "https://i.ibb.co/wpMyBxd/mangolassi.png"
+        }
+      ]
+    },
+    {
+      "id": "S7E6V5E4N3W2X1Y0",
+      "chef_id": "7",
+      "chefName": "Olivia Ramirez",
+      "chefPhotoUrl": "https://i.ibb.co/px5qprM/13-arm-corss-chef-women.png",
+      "likes": 2800,
+      "numRecipes": 45,
+      "yearsExperience": 24,
+      "chefDescription": "Olivia Ramirez is a culinary maestro with over two decades of experience. Her culinary journey began as a child, learning family recipes passed down for generations. She has since honed her skills, blending tradition with innovation. Olivia's passion for food extends beyond the kitchen, as she's a dedicated advocate for sustainable and ethical cooking practices, making her a prominent figure in the culinary world.",
+      "recipes": [
+        {
+          "recipes_id": 15,
+          "name": "Paella",
+          "ingredients": [
+            "rice",
+            "saffron",
+            "chicken",
+            "shrimp",
+            "bell peppers",
+            "onions"
+          ],
+          "cookingMethod": [
+            "Sauté onions and bell peppers.",
+            "Add rice and saffron.",
+            "Add chicken and shrimp.",
+            "Cook until rice is tender.",
+            "Serve hot."
+          ],
+          "rating": 4.9,
+          "recipeImages": "https://i.ibb.co/Zx0Q3VT/paella.png"
+        },
+        {
+          "recipes_id": 16,
+          "name": "Mole Enchiladas",
+          "ingredients": [
+            "chicken",
+            "corn tortillas",
+            "mole sauce",
+            "queso fresco"
+          ],
+          "cookingMethod": [
+            "Shred chicken.",
+            "Fill tortillas with chicken.",
+            "Top with mole sauce and queso fresco.",
+            "Bake until cheese is melted.",
+            "Serve with rice and beans."
+          ],
+          "rating": 4.8,
+          "recipeImages": "https://i.ibb.co/xs1swdw/mole-enchiladas.png"
+        },
+        {
+          "recipes_id": 17,
+          "name": "Ceviche",
+          "ingredients": [
+            "white fish",
+            "lime juice",
+            "red onion",
+            "cilantro",
+            "jalapeño",
+            "avocado"
+          ],
+          "cookingMethod": [
+            "Dice fish and marinate in lime juice.",
+            "Add diced red onion, cilantro, jalapeño, and avocado.",
+            "Serve chilled with tortilla chips."
+          ],
+          "rating": 4.7,
+          "recipeImages": "https://i.ibb.co/23VGtdP/ceviche.png"
+        },
+        {
+          "recipes_id": 18,
+          "name": "Churros",
+          "ingredients": [
+            "flour",
+            "water",
+            "sugar",
+            "salt",
+            "cinnamon"
+          ],
+          "cookingMethod": [
+            "Mix flour, water, sugar, and salt.",
+            "Pipe dough into hot oil.",
+            "Fry until golden.",
+            "Roll in cinnamon sugar.",
+            "Serve with chocolate dipping sauce."
+          ],
+          "rating": 4.6,
+          "recipeImages": "https://i.ibb.co/2P8q48J/churros.png"
+        },
+        {
+          "recipes_id": 19,
+          "name": "Guacamole",
+          "ingredients": [
+            "avocado",
+            "lime juice",
+            "tomato",
+            "red onion",
+            "garlic",
+            "cilantro"
+          ],
+          "cookingMethod": [
+            "Mash avocado.",
+            "Add lime juice, diced tomato, red onion, minced garlic, and chopped cilantro.",
+            "Serve with tortilla chips."
+          ],
+          "rating": 4.5,
+          "recipeImages": "https://i.ibb.co/r3YytQY/guacamole.png"
+        }
+      ]
+    },
+    {
+      "id": "E8I7G6H5T4_3C2H1E0F9",
+      "chef_id": "8",
+      "chefName": "Daniel Wu",
+      "chefPhotoUrl": "https://i.ibb.co/sy9X588/7-happy-young-bearded-chef-man-wearing-white-cooker-uniform-hat-smiling-holding-hands-folded-while-l.png",
+      "likes": 3200,
+      "numRecipes": 50,
+      "yearsExperience": 28,
+      "chefDescription": "Daniel Wu is a culinary virtuoso with nearly three decades of experience. His journey began in his grandmother's kitchen, where he learned the art of traditional Asian cooking. Over the years, he has blended these time-honored techniques with contemporary flavors, creating a fusion of taste and culture. Daniel is not only a chef but also a culinary historian, preserving and sharing the rich heritage of Asian cuisine with the world.",
+      "recipes": [
+        {
+          "recipes_id": 20,
+          "name": "Bao Buns",
+          "ingredients": [
+            "flour",
+            "yeast",
+            "pork belly",
+            "hoisin sauce",
+            "pickled vegetables"
+          ],
+          "cookingMethod": [
+            "Make dough from flour and yeast.",
+            "Steam buns until fluffy.",
+            "Fill with roasted pork belly, hoisin sauce, and pickled vegetables.",
+            "Serve hot."
+          ],
+          "rating": 4.9,
+          "recipeImages": "https://i.ibb.co/SNwM4g2/bao-buns.png"
+        },
+        {
+          "recipes_id": 21,
+          "name": "Sushi Rolls",
+          "ingredients": [
+            "sushi rice",
+            "nori seaweed",
+            "sashimi-grade fish",
+            "avocado",
+            "cucumber"
+          ],
+          "cookingMethod": [
+            "Lay out a sheet of nori on a bamboo sushi mat.",
+            "Spread sushi rice evenly on the nori.",
+            "Add slices of sashimi-grade fish, avocado, and cucumber.",
+            "Roll tightly and slice into bite-sized pieces.",
+            "Serve with soy sauce and wasabi."
+          ],
+          "rating": 4.8,
+          "recipeImages": "https://i.ibb.co/KWsfzyS/sushi-rolls.png"
+        },
+        {
+          "recipes_id": 22,
+          "name": "Kung Pao Chicken",
+          "ingredients": [
+            "chicken",
+            "peanuts",
+            "bell peppers",
+            "dried red chilies",
+            "soy sauce",
+            "ginger"
+          ],
+          "cookingMethod": [
+            "Sauté chicken, peanuts, and bell peppers.",
+            "Add dried red chilies and ginger.",
+            "Stir in soy sauce.",
+            "Serve with steamed rice."
+          ],
+          "rating": 4.7,
+          "recipeImages": "https://i.ibb.co/QbLfcQn/kung-pao-chicken.png"
+        },
+        {
+          "recipes_id": 23,
+          "name": "Matcha Green Tea Ice Cream",
+          "ingredients": [
+            "matcha green tea powder",
+            "milk",
+            "sugar",
+            "egg yolks",
+            "heavy cream"
+          ],
+          "cookingMethod": [
+            "Mix matcha powder with milk and sugar.",
+            "Heat mixture and temper with egg yolks.",
+            "Chill and churn in an ice cream maker.",
+            "Serve as a refreshing dessert."
+          ],
+          "rating": 4.6,
+          "recipeImages": "https://i.ibb.co/S63v75x/matcha-green-tea-ice-cream.png"
+        },
+        {
+          "recipes_id": 24,
+          "name": "Kimchi Fried Rice",
+          "ingredients": [
+            "cooked rice",
+            "kimchi",
+            "scallions",
+            "soy sauce",
+            "sesame oil"
+          ],
+          "cookingMethod": [
+            "Sauté kimchi and scallions.",
+            "Add cooked rice, soy sauce, and sesame oil.",
+            "Stir-fry until heated through.",
+            "Garnish with sesame seeds."
+          ],
+          "rating": 4.5,
+          "recipeImages": "https://i.ibb.co/DfjfnLr/kimchi-fried-rice.png"
+        }
+      ]
+    },
+    {
+      "id": "N9I8N7E6T5C4H3E2F1",
+      "chef_id": "9",
+      "chefName": "Emily Parker",
+      "chefPhotoUrl": "https://i.ibb.co/4gP5p5q/10-old-chef.png",
+      "likes": 3600,
+      "numRecipes": 55,
+      "yearsExperience": 32,
+      "chefDescription": "Emily Parker is a culinary legend with over three decades of experience in the world of gastronomy. She has been at the forefront of culinary innovation, pushing boundaries and redefining flavors. Emily's culinary journey has taken her to every corner of the globe, where she has absorbed the essence of diverse cuisines. Her commitment to sustainability, creativity, and culinary excellence has made her a celebrated figure in the culinary universe, inspiring chefs and food enthusiasts worldwide.",
+      "recipes": [
+        {
+          "recipes_id": 25,
+          "name": "Lobster Bisque",
+          "ingredients": [
+            "lobster meat",
+            "onions",
+            "carrots",
+            "celery",
+            "heavy cream",
+            "brandy"
+          ],
+          "cookingMethod": [
+            "Sauté onions, carrots, and celery.",
+            "Add lobster meat.",
+            "Blend with heavy cream.",
+            "Simmer, adding brandy.",
+            "Serve hot with a drizzle of cream."
+          ],
+          "rating": 4.9,
+          "recipeImages": "https://i.ibb.co/7pyy2cK/lobster-bbisque.png"
+        },
+        {
+          "recipes_id": 26,
+          "name": "Beef Wellington",
+          "ingredients": [
+            "beef tenderloin",
+            "puff pastry",
+            "mushrooms",
+            "foie gras",
+            "Dijon mustard"
+          ],
+          "cookingMethod": [
+            "Sear beef tenderloin.",
+            "Spread Dijon mustard.",
+            "Top with sautéed mushrooms and foie gras.",
+            "Wrap in puff pastry.",
+            "Bake until golden.",
+            "Slice and serve."
+          ],
+          "rating": 4.8,
+          "recipeImages": "https://i.ibb.co/nzgqdd8/beef-wwellington.png"
+        },
+        {
+          "recipes_id": 27,
+          "name": "Mango Lassi",
+          "ingredients": [
+            "mango",
+            "yogurt",
+            "milk",
+            "sugar",
+            "cardamom"
+          ],
+          "cookingMethod": [
+            "Blend mango, yogurt, milk, sugar, and cardamom.",
+            "Serve chilled in glasses."
+          ],
+          "rating": 4.7,
+          "recipeImages": "https://i.ibb.co/rsKyt4t/mango-llassi.png"
+        },
+        {
+          "recipes_id": 28,
+          "name": "Tiramisu",
+          "ingredients": [
+            "ladyfingers",
+            "mascarpone cheese",
+            "espresso",
+            "cocoa powder",
+            "sugar"
+          ],
+          "cookingMethod": [
+            "Dip ladyfingers in espresso.",
+            "Layer with mascarpone mixture and cocoa.",
+            "Chill before serving."
+          ],
+          "rating": 4.6,
+          "recipeImages": "https://i.ibb.co/nBtT3kt/ttiramisu.png"
+        },
+        {
+          "recipes_id": 29,
+          "name": "Ratatouille",
+          "ingredients": [
+            "eggplant",
+            "zucchini",
+            "bell peppers",
+            "tomatoes",
+            "garlic",
+            "thyme"
+          ],
+          "cookingMethod": [
+            "Sauté garlic and thyme.",
+            "Layer sliced vegetables.",
+            "Bake until tender.",
+            "Serve as a side or main dish."
+          ],
+          "rating": 4.5,
+          "recipeImages": "https://i.ibb.co/NpNkvwb/rratatouille.png"
+        }
+      ]
+    },
+    {
+      "id": "T0E1N2_C3H4E5F6",
+      "chef_id": "10",
+      "chefName": "Alexander Mitchell",
+      "chefPhotoUrl": "https://i.ibb.co/6ZrMpRB/8-cook-smile-very-detailed-photo-waist-white-background-935410-1477.png",
+      "likes": 4200,
+      "numRecipes": 60,
+      "yearsExperience": 35,
+      "chefDescription": "Alexander Mitchell is a culinary luminary with a remarkable career spanning over three decades. His culinary journey began in the heart of Europe, where he immersed himself in the traditions of classical French cuisine. Throughout his illustrious career, Alexander has garnered acclaim for his mastery of flavors, artistic presentation, and unwavering commitment to the culinary arts. He is not just a chef but a true gastronomic artist, using food as his canvas to create exquisite masterpieces that delight both the palate and the soul.",
+      "recipes": [
+        {
+          "recipes_id": 30,
+          "name": "Coq au Vin",
+          "ingredients": [
+            "chicken",
+            "red wine",
+            "mushrooms",
+            "onions",
+            "bacon",
+            "thyme"
+          ],
+          "cookingMethod": [
+            "Sear chicken and set aside.",
+            "Sauté onions, mushrooms, and bacon.",
+            "Add red wine and thyme.",
+            "Simmer until chicken is tender.",
+            "Serve with sauce."
+          ],
+          "rating": 4.9,
+          "recipeImages": "https://i.ibb.co/Bc8gq61/coq-au-vin.png"
+        },
+        {
+          "recipes_id": 31,
+          "name": "Chocolate Soufflé",
+          "ingredients": [
+            "dark chocolate",
+            "eggs",
+            "sugar",
+            "butter",
+            "cocoa powder"
+          ],
+          "cookingMethod": [
+            "Melt chocolate and butter.",
+            "Whisk egg yolks and sugar.",
+            "Fold in whipped egg whites.",
+            "Bake until puffed.",
+            "Dust with cocoa powder."
+          ],
+          "rating": 4.8,
+          "recipeImages": "https://i.ibb.co/QrtdJVm/chocolate-souffl.png"
+        },
+        {
+          "recipes_id": 32,
+          "name": "Bouillabaisse",
+          "ingredients": [
+            "assorted seafood",
+            "tomatoes",
+            "fennel",
+            "garlic",
+            "saffron",
+            "rouille"
+          ],
+          "cookingMethod": [
+            "Sauté garlic, fennel, and saffron.",
+            "Add tomatoes and seafood.",
+            "Simmer until seafood is cooked.",
+            "Serve with rouille and crusty bread."
+          ],
+          "rating": 4.7,
+          "recipeImages": "https://i.ibb.co/tzpQNZ4/bouillabaisse.png"
+        },
+        {
+          "recipes_id": 33,
+          "name": "Beef Bourguignon",
+          "ingredients": [
+            "beef stew meat",
+            "red wine",
+            "carrots",
+            "onions",
+            "mushrooms",
+            "garlic"
+          ],
+          "cookingMethod": [
+            "Sear beef and set aside.",
+            "Sauté onions, carrots, and mushrooms.",
+            "Add red wine and garlic.",
+            "Simmer until beef is tender.",
+            "Serve with crusty bread."
+          ],
+          "rating": 4.6,
+          "recipeImages": "https://i.ibb.co/drhbZ6q/beef-bourguignon.png"
+        },
+        {
+          "recipes_id": 34,
+          "name": "Raspberry Crème Brûlée",
+          "ingredients": [
+            "raspberries",
+            "heavy cream",
+            "egg yolks",
+            "sugar",
+            "vanilla"
+          ],
+          "cookingMethod": [
+            "Blend raspberries and strain.",
+            "Mix with cream, egg yolks, sugar, and vanilla.",
+            "Bake until set.",
+            "Caramelize sugar on top."
+          ],
+          "rating": 4.5,
+          "recipeImages": "https://i.ibb.co/rm0cfWM/raspberry-cr-me-br-l-e.png"
+        }
+      ]
+    }
+      
+  ]

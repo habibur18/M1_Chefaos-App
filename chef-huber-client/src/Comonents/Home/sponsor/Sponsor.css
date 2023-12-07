@@ -1,0 +1,10 @@
+.bw-image {
+  filter: grayscale(100%);
+  transform: scale(1);
+  cursor: pointer;
+  transition: filter 0.3s ease-in-out, transform 0.3s ease-in-out;
+}
+.bw-image:hover {
+  transform: scale(1.2);
+  filter: grayscale(0%);
+}

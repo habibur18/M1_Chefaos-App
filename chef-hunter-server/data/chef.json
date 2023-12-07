@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "chefName": "Alice Johnson",
+    "chefPhotoUrl": "https://i.ibb.co/J2d13MW/1-chef.png",
+    "likes": 1200,
+    "numRecipes": 20,
+    "yearsExperience": 10,
+    "chefDescription": "Alice Johnson is a passionate chef with a flair for creating delicious and innovative dishes. She has spent a decade honing her culinary skills and loves to experiment with global flavors. Alice is known for her dedication to using fresh, locally-sourced ingredients."
+  },
+  {
+    "id": "2",
+    "chefName": "David Smith",
+    "chefPhotoUrl": "https://pngimg.com/uploads/chef/chef_PNG115.png",
+    "likes": 800,
+    "numRecipes": 15,
+    "yearsExperience": 8,
+    "chefDescription": "David Smith is a chef and culinary educator. He enjoys sharing his knowledge and love for cooking with others. David specializes in Italian cuisine and has a deep appreciation for the simplicity and quality of ingredients used in traditional Italian recipes."
+  },
+  {
+    "id": "3",
+    "chefName": "Sophia Rodriguez",
+    "chefPhotoUrl": "https://i.ibb.co/SPf3239/2-chef.png",
+    "likes": 1500,
+    "numRecipes": 25,
+    "yearsExperience": 14,
+    "chefDescription": "Sophia Rodriguez is a renowned chef with a passion for creating dishes that celebrate local ingredients. She has over a decade of experience in the culinary world and is known for her commitment to sustainable and farm-to-table cooking."
+  },
+  {
+    "id": "4",
+    "chefName": "Michael Chang",
+    "chefPhotoUrl": "https://i.ibb.co/cC3drKM/5-successful-happy-eldery-chef-crossed-arms-portrait-white-wall-isolated.png",
+    "likes": 1800,
+    "numRecipes": 30,
+    "yearsExperience": 20,
+    "chefDescription": "Michael Chang is a world-class chef known for his expertise in fusion cuisine. With two decades of experience, he combines flavors from around the globe to create unique and unforgettable dishes."
+  },
+  {
+    "id": "5",
+    "chefName": "Isabella Martinez",
+    "chefPhotoUrl": "https://i.ibb.co/k6wqNFR/12-hand-tomato-chef-women.png",
+    "likes": 2000,
+    "numRecipes": 35,
+    "yearsExperience": 18,
+    "chefDescription": "Isabella Martinez is a highly accomplished chef with nearly two decades of culinary experience. She has a deep appreciation for traditional recipes passed down through generations, which she combines with her innovative approach to create dishes that are both nostalgic and exciting. Isabella's dedication to preserving cultural culinary traditions has earned her recognition in the industry."
+  },
+  {
+    "id": "6",
+    "chefName": "William Anderson",
+    "chefPhotoUrl": "https://i.ibb.co/1nQxy9W/6-serious-chef-with-his-arms-crossed.png",
+    "likes": 2500,
+    "numRecipes": 40,
+    "yearsExperience": 22,
+    "chefDescription": "William Anderson is a culinary virtuoso with over two decades of experience. He has traveled the world to learn and master diverse cuisines, combining his expertise to craft exceptional dishes. William's passion for culinary arts is matched only by his dedication to mentoring the next generation of chefs, sharing his knowledge and love for cooking."
+  },
+  {
+    "id": "7",
+    "chefName": "Olivia Ramirez",
+    "chefPhotoUrl": "https://i.ibb.co/px5qprM/13-arm-corss-chef-women.png",
+    "likes": 2800,
+    "numRecipes": 45,
+    "yearsExperience": 24,
+    "chefDescription": "Olivia Ramirez is a culinary maestro with over two decades of experience. Her culinary journey began as a child, learning family recipes passed down for generations. She has since honed her skills, blending tradition with innovation. Olivia's passion for food extends beyond the kitchen, as she's a dedicated advocate for sustainable and ethical cooking practices, making her a prominent figure in the culinary world."
+  },
+  {
+    "id": "8",
+    "chefName": "Daniel Wu",
+    "chefPhotoUrl": "https://i.ibb.co/sy9X588/7-happy-young-bearded-chef-man-wearing-white-cooker-uniform-hat-smiling-holding-hands-folded-while-l.png",
+    "likes": 3200,
+    "numRecipes": 50,
+    "yearsExperience": 28,
+    "chefDescription": "Daniel Wu is a culinary virtuoso with nearly three decades of experience. His journey began in his grandmother's kitchen, where he learned the art of traditional Asian cooking. Over the years, he has blended these time-honored techniques with contemporary flavors, creating a fusion of taste and culture. Daniel is not only a chef but also a culinary historian, preserving and sharing the rich heritage of Asian cuisine with the world."
+  },
+  {
+    "id": "9",
+    "chefName": "Emily Parker",
+    "chefPhotoUrl": "https://i.ibb.co/4gP5p5q/10-old-chef.png",
+    "likes": 3600,
+    "numRecipes": 55,
+    "yearsExperience": 32,
+    "chefDescription": "Emily Parker is a culinary legend with over three decades of experience in the world of gastronomy. She has been at the forefront of culinary innovation, pushing boundaries and redefining flavors. Emily's culinary journey has taken her to every corner of the globe, where she has absorbed the essence of diverse cuisines. Her commitment to sustainability, creativity, and culinary excellence has made her a celebrated figure in the culinary universe, inspiring chefs and food enthusiasts worldwide."
+  },
+  {
+    "id": "10",
+    "chefName": "Alexander Mitchell",
+    "chefPhotoUrl": "https://i.ibb.co/6ZrMpRB/8-cook-smile-very-detailed-photo-waist-white-background-935410-1477.png",
+    "likes": 4200,
+    "numRecipes": 60,
+    "yearsExperience": 35,
+    "chefDescription": "Alexander Mitchell is a culinary luminary with a remarkable career spanning over three decades. His culinary journey began in the heart of Europe, where he immersed himself in the traditions of classical French cuisine. Throughout his illustrious career, Alexander has garnered acclaim for his mastery of flavors, artistic presentation, and unwavering commitment to the culinary arts. He is not just a chef but a true gastronomic artist, using food as his canvas to create exquisite masterpieces that delight both the palate and the soul."
+  }
+]
